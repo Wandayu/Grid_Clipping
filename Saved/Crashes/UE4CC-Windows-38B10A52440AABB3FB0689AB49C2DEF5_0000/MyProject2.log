@@ -1,0 +1,1493 @@
+﻿Log file open, 10/19/20 12:23:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.419966
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername="Dayu Wan" -epicuserid=360f4a27c31b4371b5eef8bd146e34c0 -epiclocale=zh-CN
+LogInit: Base Directory: E:/UE4/UE_423/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.19-16.23.03:902][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.19-16.23.03:902][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.19-16.23.03:902][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Engine.ini]
+[2020.10.19-16.23.03:902][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.19-16.23.03:902][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.10.19-16.23.03:902][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Engine.ini]
+[2020.10.19-16.23.03:903][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Engine.ini]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Engine.ini]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.19-16.23.03:903][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Engine.ini]
+[2020.10.19-16.23.03:903][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Engine.ini]
+[2020.10.19-16.23.03:906][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.19-16.23.03:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.19-16.23.03:907][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.19-16.23.03:907][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.19-16.23.03:907][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.19-16.23.03:953][  0]LogHAL: Display: Platform has ~ 16 GB [17012166656 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.10.19-16.23.03:953][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.19-16.23.03:953][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.19-16.23.03:953][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Scalability.ini]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.19-16.23.03:954][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Config/Windows/Engine.ini]
+[2020.10.19-16.23.03:954][  0]LogInit: Computer: LAPTOP-1D8QJ84M
+[2020.10.19-16.23.03:954][  0]LogInit: User: 90329
+[2020.10.19-16.23.03:954][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.10.19-16.23.03:954][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.19-16.23.03:955][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.10.19-16.23.03:955][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.19-16.23.03:955][  0]LogMemory: Process Physical Memory: 99.27 MB used, 99.27 MB peak
+[2020.10.19-16.23.03:955][  0]LogMemory: Process Virtual Memory: 92.36 MB used, 92.36 MB peak
+[2020.10.19-16.23.03:955][  0]LogMemory: Physical Memory: 9612.69 MB used,  6611.38 MB free, 16224.07 MB total
+[2020.10.19-16.23.03:955][  0]LogMemory: Virtual Memory: 4662.76 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.10.19-16.23.03:975][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.10.19-16.23.03:975][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.10.19-16.23.04:119][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.19-16.23.04:146][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.19-16.23.04:146][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.19-16.23.04:356][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.19-16.23.04:356][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.19-16.23.04:432][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.10.19-16.23.04:432][  0]LogD3D11RHI:       3962/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.19-16.23.04:452][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.10.19-16.23.04:452][  0]LogD3D11RHI:       128/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.19-16.23.04:456][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.19-16.23.04:456][  0]LogD3D11RHI:       0/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.19-16.23.04:456][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.19-16.23.04:489][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.19-16.23.04:489][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.19-16.23.04:489][  0]LogWindows: EnumDisplayDevices:
+[2020.10.19-16.23.04:489][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.10.19-16.23.04:489][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.19-16.23.04:490][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.19-16.23.04:490][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:1)
+[2020.10.19-16.23.04:490][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.10.19-16.23.04:490][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.10.19-16.23.04:491][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.10.19-16.23.04:491][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.10.19-16.23.04:491][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.10.19-16.23.04:491][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2020.10.19-16.23.04:491][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2020.10.19-16.23.04:491][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.10.19-16.23.04:543][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.19-16.23.04:546][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.19-16.23.04:546][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.19-16.23.04:546][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.10.19-16.23.04:560][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.10.19-16.23.04:886][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.10.19-16.23.04:898][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.10.19-16.23.04:910][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.10.19-16.23.04:921][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.10.19-16.23.04:934][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.10.19-16.23.04:945][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.10.19-16.23.04:958][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.19-16.23.04:969][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.10.19-16.23.04:975][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.10.19-16.23.05:046][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.10.19-16.23.05:048][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.10.19-16.23.05:094][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.10.19-16.23.05:094][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.10.19-16.23.05:115][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.10.19-16.23.05:115][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.10.19-16.23.05:125][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.10.19-16.23.05:136][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.19-16.23.05:147][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.10.19-16.23.05:158][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.10.19-16.23.05:197][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.10.19-16.23.05:197][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.10.19-16.23.05:197][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.19-16.23.05:204][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.19-16.23.05:246][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Intermediate/Shaders/WorkingDirectory/21064/).
+[2020.10.19-16.23.05:246][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/90329/AppData/Local/Temp/UnrealShaderWorkingDir/D5E9D779418FFCF9A28F9789939D7B4D/'.
+[2020.10.19-16.23.05:248][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.19-16.23.05:248][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.19-16.23.05:248][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.19-16.23.05:719][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.19-16.23.05:786][  0]LogDerivedDataCache: Loaded boot cache 0.07s 109MB C:/Users/90329/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.10.19-16.23.05:786][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/90329/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.10.19-16.23.05:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UEProjects/CryoVR_Sample_Clipping-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.19-16.23.05:786][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.19-16.23.05:786][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UEProjects/CryoVR_Sample_Clipping-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.19-16.23.05:786][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.19-16.23.05:796][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.19-16.23.05:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.19-16.23.05:796][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.19-16.23.05:809][  0]LogDerivedDataCache: Using Local data cache path C:/Users/90329/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.19-16.23.05:809][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.19-16.23.05:809][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.19-16.23.06:828][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.19-16.23.06:829][  0]LogSlate: Using FreeType 2.6.0
+[2020.10.19-16.23.06:830][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.19-16.23.06:912][  0]LogAssetRegistry: FAssetRegistry took 0.0338 seconds to start up
+[2020.10.19-16.23.07:207][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.19-16.23.07:362][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.19-16.23.07:362][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.19-16.23.07:362][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.19-16.23.07:362][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.19-16.23.07:362][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.19-16.23.07:372][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4139302413)
+[2020.10.19-16.23.08:474][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.185239 seconds
+[2020.10.19-16.23.08:481][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.10.19-16.23.08:481][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.10.19-16.23.08:481][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.19-16.23.09:419][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.19-16.23.09:431][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.19-16.23.09:535][  0]SourceControl: Source control is disabled
+[2020.10.19-16.23.09:535][  0]SourceControl: Source control is disabled
+[2020.10.19-16.23.09:536][  0]SourceControl: Source control is disabled
+[2020.10.19-16.23.09:537][  0]SourceControl: Source control is disabled
+[2020.10.19-16.23.09:597][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.19-16.23.09:693][  0]LogOcInput: OculusInput pre-init called
+[2020.10.19-16.23.10:371][  0]LogEngine: Initializing Engine...
+[2020.10.19-16.23.10:372][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.19-16.23.10:373][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.19-16.23.10:742][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.19-16.23.10:756][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.19-16.23.10:784][  0]LogInit: XAudio2 using 'Speaker (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.19-16.23.10:807][  0]LogInit: FAudioDevice initialized.
+[2020.10.19-16.23.10:808][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.19-16.23.10:869][  0]LogDerivedDataCache: Saved boot cache 0.06s 101MB C:/Users/90329/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.10.19-16.23.10:881][  0]LogInit: Texture streaming: Enabled
+[2020.10.19-16.23.10:898][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.19-16.23.10:997][  0]LogInit: Transaction tracking system initialized
+[2020.10.19-16.23.11:017][  0]BlueprintLog: New page: Editor Load
+[2020.10.19-16.23.11:089][  0]LocalizationService: Localization service is disabled
+[2020.10.19-16.23.11:739][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.19-16.23.11:739][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.19-16.23.12:169][  0]SourceControl: Source control is disabled
+[2020.10.19-16.23.12:169][  0]Cmd: MAP LOAD FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-16.23.12:336][  0]LightingResults: New page: Lighting Build
+[2020.10.19-16.23.12:339][  0]MapCheck: New page: Map Check
+[2020.10.19-16.23.12:339][  0]LightingResults: New page: Lighting Build
+[2020.10.19-16.23.12:366][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.10.19-16.23.13:446][  0]LogFileCache: Scanning file cache for directory 'E:/UEProjects/CryoVR_Sample_Clipping-master/Content/' took 1.75s
+[2020.10.19-16.23.17:634][  0]LogAIModule: Creating AISystem for world Menu
+[2020.10.19-16.23.17:897][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-16.23.17:949][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.10.19-16.23.17:949][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-16.23.17:949][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2020.10.19-16.23.17:949][  0]LogFileHelpers: Loading map 'Menu' took 5.781
+[2020.10.19-16.23.20:290][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-16.23.20:379][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-16.23.20:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-16.23.20:392][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.19-16.23.20:942][  0]LogCollectionManager: Loaded 0 collections in 0.083826 seconds
+[2020.10.19-16.23.21:713][  0]LogFileCache: Scanning file cache for directory 'E:/UEProjects/CryoVR_Sample_Clipping-master/Saved/Collections/' took 0.01s
+[2020.10.19-16.23.21:713][  0]LogFileCache: Scanning file cache for directory 'E:/UEProjects/CryoVR_Sample_Clipping-master/Content/Developers/90329/Collections/' took 0.01s
+[2020.10.19-16.23.21:713][  0]LogFileCache: Scanning file cache for directory 'E:/UEProjects/CryoVR_Sample_Clipping-master/Content/Collections/' took 0.01s
+[2020.10.19-16.23.21:713][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.10.19-16.23.21:903][  0]LogContentBrowser: Native class hierarchy populated in 0.0224 seconds. Added 2732 classes and 659 folders.
+[2020.10.19-16.23.22:363][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.19-16.23.22:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.22:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.22:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.22:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.22:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.22:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.22:990][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:231][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:270][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:870][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.23:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.24:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.24:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.24:344][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.24:405][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.24:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.10.19-16.23.27:430][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-16.23.27:480][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.10.19-16.23.29:378][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.19-16.23.29:387][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.19-16.23.29:736][  0]LogSlate: Took 0.066926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.19-16.23.30:565][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 26 NumSamples 1 (Frame:1).
+[2020.10.19-16.23.31:405][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.19-16.23.31:405][  0]LogLoad: (Engine Initialization) Total time: 31.16 seconds
+[2020.10.19-16.23.31:405][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.19-16.23.31:490][  0]LogAssetRegistry: Asset discovery search completed in 24.6000 seconds
+[2020.10.19-16.23.31:493][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.19-16.23.31:493][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2020.10.19-16.23.31:619][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.19-16.23.31:917][  0]LogSlate: Took 0.115042 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.19-16.23.41:039][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.23.42:237][ 87]LogRenderer: Reallocating scene render targets to support 1208x712 Format 26 NumSamples 1 (Frame:34).
+[2020.10.19-16.23.45:684][225]LogRenderer: Reallocating scene render targets to support 1616x836 Format 26 NumSamples 1 (Frame:166).
+[2020.10.19-16.23.53:495][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.25.00:745][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.25.04:268][616]LogSlate: Took 0.127028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.19-16.25.14:024][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-16.26.01:538][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.26.11:672][225]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.19-16.26.11:708][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.26.11:867][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.10.19-16.26.13:450][225]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Menu241671764AC381162DCEC3A94C7D1F0C.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Menu.umap'
+[2020.10.19-16.26.13:689][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/Menu_BuiltData" FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Menu_BuiltData.uasset" SILENT=true
+[2020.10.19-16.26.13:794][225]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Menu_BuiltData9B0C7BC44EED74DB662D688CEA271ACE.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Menu_BuiltData.uasset'
+[2020.10.19-16.26.15:066][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.26.18:411][469]Cmd: MAP LOAD FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-16.26.18:434][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.26.18:440][469]LightingResults: New page: Lighting Build
+[2020.10.19-16.26.18:441][469]LoadErrors: New page: Loading map: Sample_Clipping.umap
+[2020.10.19-16.26.18:470][469]MapCheck: New page: Map Check
+[2020.10.19-16.26.18:470][469]LightingResults: New page: Lighting Build
+[2020.10.19-16.26.18:493][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.10.19-16.26.22:015][469]LogPhysics: Warning: Failed to cook TriMesh: /Game/Clip_Model/Temp/clip_gridring.clip_gridring.
+[2020.10.19-16.26.22:015][469]LogPhysics: Warning: Attempt to build physics data for /Game/Clip_Model/Temp/clip_gridring.clip_gridring:BodySetup_0 when we are unable to.
+[2020.10.19-16.26.22:743][469]LogAIModule: Creating AISystem for world Sample_Clipping
+[2020.10.19-16.26.23:179][469]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-16.26.23:223][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.19-16.26.23:263][469]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-16.26.23:263][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2020.10.19-16.26.23:263][469]LogFileHelpers: Loading map 'Sample_Clipping' took 4.866
+[2020.10.19-16.29.17:830][568]LogEditorViewport: Clicking on Actor (LMB): TextRender_BP_C (TextRender)
+[2020.10.19-16.29.26:757][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.19-16.29.28:712][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.29.37:347][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.29.41:359][911]Cmd: TRANSACTION UNDO
+[2020.10.19-16.29.41:359][911]LogEditorTransaction: Undo Scale Actors
+[2020.10.19-16.29.42:839][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.29.46:727][205]Cmd: TRANSACTION UNDO
+[2020.10.19-16.29.46:727][205]LogEditorTransaction: Undo Scale Actors
+[2020.10.19-16.29.48:762][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.29.51:582][491]EditorErrors: New page: Actor attachment
+[2020.10.19-16.29.53:099][582]Cmd: TRANSACTION UNDO
+[2020.10.19-16.29.53:099][582]LogEditorTransaction: Undo Attach actors
+[2020.10.19-16.29.55:827][744]EditorErrors: New page: Actor attachment
+[2020.10.19-16.29.57:086][819]Cmd: TRANSACTION UNDO
+[2020.10.19-16.29.57:086][819]LogEditorTransaction: Undo Attach actors
+[2020.10.19-16.29.59:561][967]EditorErrors: New page: Actor attachment
+[2020.10.19-16.30.12:362][725]Cmd: TRANSACTION UNDO
+[2020.10.19-16.30.12:362][725]LogEditorTransaction: Undo Move Actors
+[2020.10.19-16.30.19:592][155]Cmd: TRANSACTION UNDO
+[2020.10.19-16.30.19:592][155]LogEditorTransaction: Undo Move Actors
+[2020.10.19-16.30.27:256][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.30.46:829][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.30.47:800][816]EditorErrors: New page: Actor attachment
+[2020.10.19-16.30.49:554][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-16.30.50:445][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.19-16.30.51:083][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.10.19-16.30.51:513][ 33]LogEditorViewport: Clicking on Actor (LMB): TextRender_BP_C (TextRender)
+[2020.10.19-16.30.54:636][216]Cmd: TRANSACTION UNDO
+[2020.10.19-16.30.54:636][216]LogEditorTransaction: Undo Move Actors
+[2020.10.19-16.31.00:166][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.31.00:250][546]MapCheck: New page: Map Check
+[2020.10.19-16.31.00:281][546]Cmd: MAP REBUILD ALLVISIBLE
+[2020.10.19-16.31.00:281][546]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.10.19-16.31.00:505][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.19-16.31.00:588][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:819][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:826][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:832][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:838][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:843][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:849][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:856][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:866][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:872][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:878][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:884][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:893][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:899][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:906][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:912][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:918][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:925][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:931][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:937][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:944][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:950][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:956][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:962][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:969][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.00:976][546]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.10.19-16.31.04:549][546]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.10.19-16.31.04:550][546]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.10.19-16.31.04:550][546]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.10.19-16.31.04:550][546]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-16.31.04:550][546]TextureStreamingBuild: Display: Compiling optional shaders took 3.984 seconds.
+[2020.10.19-16.31.04:776][546]LogLevel: Display: Export Material TexCoord Scales took 0.226 seconds.
+[2020.10.19-16.31.04:833][546]TextureStreamingBuild: Display: Build Texture Streaming took 0.042 seconds.
+[2020.10.19-16.31.04:857][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.10.19-16.31.04:915][546]LightingResults: New page: Lighting Build - Oct 19, 2020, 8:31:04 AM
+[2020.10.19-16.31.05:282][546]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.10.19-16.31.05:595][546]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.10.19-16.31.05:608][546]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.10.19-16.31.06:631][546]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.10.19-16.31.06:631][546]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21064
+[2020.10.19-16.31.18:265][546]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.10.19-16.31.18:265][546]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.10.19-16.31.18:265][546]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.10.19-16.31.18:265][546]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.10.19-16.31.18:265][546]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.10.19-16.31.18:265][546]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.10.19-16.31.18:518][546]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.10.19-16.31.18:519][546]MapCheck: New page: Sample_Clipping - Oct 19, 2020, 8:31:18 AM
+[2020.10.19-16.31.18:523][546]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.10.19-16.31.18:600][546]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 81.857ms to complete.
+[2020.10.19-16.31.18:652][546]LogEditorBuildUtils: Build time 0:18
+[2020.10.19-16.31.19:512][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.10.19-16.31.21:579][555]Job is a success!
+[2020.10.19-16.31.22:063][556]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.107s
+[2020.10.19-16.31.22:063][556]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.10.19-16.31.22:063][556]LogVolumetricLightmapImport:      BrickData 50x5x5 = 0.0Mb
+[2020.10.19-16.31.22:063][556]LogVolumetricLightmapImport:      Bricks at Level
+[2020.10.19-16.31.22:063][556]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.10.19-16.31.22:063][556]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.10.19-16.31.22:063][556]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.10.19-16.31.22:452][556]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.10.19-16.31.22:452][556]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.10.19-16.31.22:452][556]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.10.19-16.31.22:452][556]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.10.19-16.31.22:494][556]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2020.10.19-16.31.22:518][556]Lightmass on LAPTOP-1D8QJ84M: 2.43 sec total, 306 ms importing, 23 ms setup, 687 ms photons, 1.36 sec processing, 0 ms extra exporting [25/25 mappings]. Threads: 14.5 sec total, 1.24 sec processing.
+[2020.10.19-16.31.22:520][556]LogStaticLightingSystem: Sample_Clipping_BuiltData storing lightmap data for 25 meshes in 3 LightmapResourceClusters (8.3 Meshes per cluster).
+[2020.10.19-16.31.22:546][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.10.19-16.31.22:552][556]LogStaticLightingSystem: Illumination: 17.5 sec (292 ms encoding lightmaps, 36 ms encoding shadowmaps)
+[2020.10.19-16.31.22:552][556]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.10.19-16.31.22:552][556]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.10.19-16.31.23:276][556]DumpUnbuiltLightIteractions
+[2020.10.19-16.31.23:276][556]Lights with unbuilt interactions: 0
+[2020.10.19-16.31.23:276][556]
+[2020.10.19-16.31.23:276][556]Primitives with unbuilt interactions: 0
+[2020.10.19-16.31.23:441][557]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.10.19-16.31.23:441][557]MapCheck: New page: Sample_Clipping - Oct 19, 2020, 8:31:23 AM
+[2020.10.19-16.31.23:442][557]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.711ms to complete.
+[2020.10.19-16.31.29:219][852]LogSlate: Window 'Message Log' being destroyed
+[2020.10.19-16.31.29:227][852]LogSlate: Window 'Message Log' being destroyed
+[2020.10.19-16.31.30:409][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.31.30:500][927]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI_Elements/TutorialUI/TextRender_BP.TextRender_BP
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator28' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator0' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator1' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator2' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator3' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator16' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator24' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator6' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator17' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator18' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator19' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator25' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator20' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator7' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator26' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator4' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator8' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator13' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator9' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator10' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator11' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator14' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:507][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator15' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator23' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator21' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator22' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator27' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator29' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator30' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator12' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::Tutorial_MAX' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator28' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator0' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator1' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator2' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator3' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator16' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator24' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator6' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator17' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator18' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator19' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator25' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator20' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator7' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator26' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator4' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator8' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator13' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator9' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator10' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator11' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator14' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator15' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator23' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator21' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator22' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator27' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator29' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator30' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:508][927]LogEnum: Warning: Enum name collision: 'Tutorial_Enum::NewEnumerator12' is in both '/Game/UI_Elements/Tutorial_Enum.Tutorial_Enum' and '/Game/UI/Tutorial_Enum.Tutorial_Enum'
+[2020.10.19-16.31.31:854][927]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.10.19-16.31.34:111][927]LogSlate: Took 0.023577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.19-16.32.01:516][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Elements/TutorialUI/TextRender_BP" FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI_Elements/TutorialUI/TextRender_BP.uasset" SILENT=true
+[2020.10.19-16.32.01:666][385]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/TextRender_BP8927EF1F42B0A912A1E8C9BEC2F919FD.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI_Elements/TutorialUI/TextRender_BP.uasset'
+[2020.10.19-16.32.03:222][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.32.04:405][544]BlueprintLog: New page: Compile TextRender_BP
+[2020.10.19-16.32.04:579][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.10.19-16.32.14:043][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.32.18:409][336]LogSlate: Window 'TextRender_BP' being destroyed
+[2020.10.19-16.32.18:414][336]LogSlate: Window 'TextRender_BP' being destroyed
+[2020.10.19-16.32.22:208][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-16.32.26:160][760]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.32.26:198][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.10.19-16.32.26:568][760]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingACAF0CE94193CB6F059FCCA31FD31A98.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-16.32.26:671][760]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping_BuiltDataD56C85214E0434E07271F0A2E3F83CE1.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping_BuiltData.uasset'
+[2020.10.19-16.32.28:632][868]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2020.10.19-16.32.37:275][358]LogEditorViewport: Clicking on Actor (LMB): Clip_Station_C (Clip_Station)
+[2020.10.19-16.32.48:656][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-16.32.49:434][ 62]LogEditorViewport: Clicking on Actor (LMB): Clip_Pen_C (Clip_Pen)
+[2020.10.19-16.32.51:719][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.32.51:844][201]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Clip_Pen.Clip_Pen
+[2020.10.19-16.33.49:087][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.34.20:825][415]LogSlate: Window 'Clip_Pen' being destroyed
+[2020.10.19-16.34.20:830][415]LogSlate: Window 'Clip_Pen' being destroyed
+[2020.10.19-16.34.29:539][920]LogEditorViewport: Clicking on Actor (context menu): Clip_Station_C (Clip_Station)
+[2020.10.19-16.34.29:899][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.34.55:385][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.34.58:116][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-16.37.09:877][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-16.37.10:395][715]LogEditorViewport: Clicking on Actor (LMB): Clip_Pen_C (Clip_Pen)
+[2020.10.19-16.37.11:753][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.37.11:860][798]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Clip_Pen.Clip_Pen
+[2020.10.19-16.37.31:055][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.37.52:881][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.38.10:632][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.38.21:935][732]LogSlate: Window 'Clip_Pen' being destroyed
+[2020.10.19-16.38.21:940][732]LogSlate: Window 'Clip_Pen' being destroyed
+[2020.10.19-16.39.16:373][258]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-16.39.16:374][258]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-16.39.16:384][258]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.39.19:210][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.39.19:212][362]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/Sample_Clipping.Sample_Clipping:PersistentLevel.Sample_Clipping
+[2020.10.19-16.39.41:712][610]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.10.19-16.39.42:086][610]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping77ACE8DB45511B81AC965BB3CAE30CDA.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-16.39.42:123][610]LogFileHelpers: Saving map 'Sample_Clipping' took 0.571
+[2020.10.19-16.39.45:578][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.40.40:177][902]LogEditorViewport: Clicking on Actor (LMB): Dewar_BP_C (NewBlueprint)
+[2020.10.19-16.40.43:987][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.40.50:382][498]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Dewar_BP.Dewar_BP
+[2020.10.19-16.41.06:140][360]LogSlate: Window 'Sample_Clipping' being destroyed
+[2020.10.19-16.41.06:146][360]LogSlate: Window 'Sample_Clipping' being destroyed
+[2020.10.19-16.41.24:010][417]Cmd: DELETE
+[2020.10.19-16.41.24:010][417]Cmd: ACTOR DELETE
+[2020.10.19-16.41.24:521][417]LogEditorActor: Deleted Actor: DewarCap_BP_C
+[2020.10.19-16.41.24:554][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.10.19-16.41.24:554][417]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2020.10.19-16.41.25:994][502]Cmd: TRANSACTION UNDO
+[2020.10.19-16.41.25:994][502]LogEditorTransaction: Undo Delete Actors
+[2020.10.19-16.41.42:058][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.10.19-16.41.42:298][449]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping87ADFD1E4961F87AB66E82BB7C3568C8.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-16.41.42:379][449]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping_BuiltDataDB1C84A04FD828F9645D05985AE736E6.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping_BuiltData.uasset'
+[2020.10.19-16.42.17:641][137]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-16.42.17:641][137]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-16.42.19:042][203]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/Sample_Clipping.Sample_Clipping:PersistentLevel.Sample_Clipping
+[2020.10.19-16.42.55:981][345]LogSlate: Took 0.026608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.10.19-16.44.40:781][518]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Clip_Station.Clip_Station
+[2020.10.19-16.45.24:549][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.10.19-16.45.24:993][ 67]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping0EC8E3194D07D6DE0739629FA3425014.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-16.45.25:031][ 67]LogFileHelpers: Saving map 'Sample_Clipping' took 0.517
+[2020.10.19-16.45.55:394][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.46.10:489][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.46.13:436][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.46.22:567][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.47.14:177][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.19-16.47.14:425][395]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingB10B7F4A4BEFB25BBE4110995C5247C7.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-16.47.14:463][395]LogFileHelpers: Saving map 'Sample_Clipping' took 0.321
+[2020.10.19-16.47.39:919][910]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/TV_Button.TV_Button
+[2020.10.19-16.47.57:265][923]LogSlate: Window 'TV_Button' being destroyed
+[2020.10.19-16.47.57:270][923]LogSlate: Window 'TV_Button' being destroyed
+[2020.10.19-16.47.57:381][923]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.19-16.48.03:966][131]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-16.48.03:966][131]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-16.48.04:926][187]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/Sample_Clipping.Sample_Clipping:PersistentLevel.Sample_Clipping
+[2020.10.19-16.49.13:948][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.49.14:088][258]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GridHolder.GridHolder
+[2020.10.19-16.49.29:407][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.49.49:370][275]BlueprintLog: New page: Compile Sample_Clipping
+[2020.10.19-16.49.49:524][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.10.19-16.49.59:696][872]LogEditorTransaction: Undo Break Pin Link
+[2020.10.19-16.50.19:049][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.19-16.50.19:324][  6]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingBD6B46DB472C8F1C0F287BA178D4EB5B.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-16.50.19:365][  6]LogFileHelpers: Saving map 'Sample_Clipping' took 0.352
+[2020.10.19-16.50.34:876][926]LogSlate: Window 'GridHolder' being destroyed
+[2020.10.19-16.50.34:880][926]LogSlate: Window 'GridHolder' being destroyed
+[2020.10.19-16.52.59:242][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.52.59:331][451]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GridHolder.GridHolder
+[2020.10.19-16.53.02:515][618]LogSlate: Window 'GridHolder' being destroyed
+[2020.10.19-16.53.02:521][618]LogSlate: Window 'GridHolder' being destroyed
+[2020.10.19-16.53.05:839][812]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Clip_Station.Clip_Station
+[2020.10.19-16.54.06:127][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.54.07:686][199]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Clip_StationAFF7C36D4021BBF6B2B177AD1CECA509.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Blueprints/Clip_Station.uasset'
+[2020.10.19-16.54.08:684][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.10.19-16.54.09:095][254]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping41782388450AAB75034BC7B806562962.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-16.54.09:183][254]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping_BuiltData5748FBD442776FC2478965B3F5680495.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping_BuiltData.uasset'
+[2020.10.19-16.54.10:200][313]LogSlate: Window 'Clip_Station' being destroyed
+[2020.10.19-16.54.10:204][313]LogSlate: Window 'Clip_Station' being destroyed
+[2020.10.19-16.54.16:553][655]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.54.59:943][814]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.19-16.55.01:229][818]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.19-16.57.11:966][407]Cmd: MAP LOAD FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-16.57.11:976][407]LightingResults: New page: Lighting Build
+[2020.10.19-16.57.11:976][407]LoadErrors: New page: Loading map: Menu.umap
+[2020.10.19-16.57.11:977][407]MapCheck: New page: Map Check
+[2020.10.19-16.57.11:977][407]LightingResults: New page: Lighting Build
+[2020.10.19-16.57.12:024][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.19-16.57.12:038][407]LogAIModule: Creating AISystem for world Menu
+[2020.10.19-16.57.12:045][407]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-16.57.12:075][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.10.19-16.57.12:113][407]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-16.57.12:113][407]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2020.10.19-16.57.12:113][407]LogFileHelpers: Loading map 'Menu' took 0.148
+[2020.10.19-16.57.17:547][725]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.10.19-16.58.30:580][425]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.10.19-16.58.30:585][425]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.10.19-16.58.34:343][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.58.37:826][851]Cmd: MAP LOAD FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.19-16.58.37:848][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-16.58.37:852][851]LightingResults: New page: Lighting Build
+[2020.10.19-16.58.37:853][851]LoadErrors: New page: Loading map: Sample_Clipping.umap
+[2020.10.19-16.58.37:853][851]MapCheck: New page: Map Check
+[2020.10.19-16.58.37:853][851]LightingResults: New page: Lighting Build
+[2020.10.19-16.58.37:882][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.10.19-16.58.37:924][851]LogAIModule: Creating AISystem for world Sample_Clipping
+[2020.10.19-16.58.37:936][851]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.19-16.58.37:964][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.10.19-16.58.38:003][851]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.19-16.58.38:003][851]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2020.10.19-16.58.38:003][851]LogFileHelpers: Loading map 'Sample_Clipping' took 0.178
+[2020.10.19-16.59.56:801][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-16.59.57:313][713]LogRenderer: Reallocating scene render targets to support 1616x844 Format 26 NumSamples 1 (Frame:1711).
+[2020.10.19-17.00.07:368][273]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/ProcedureEnum.ProcedureEnum
+[2020.10.19-17.00.09:425][384]LogSlate: Window 'ProcedureEnum' being destroyed
+[2020.10.19-17.00.09:431][384]LogSlate: Window 'ProcedureEnum' being destroyed
+[2020.10.19-17.00.11:237][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.00.14:511][682]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/UI/Tutorial_Enum.Tutorial_Enum
+[2020.10.19-17.00.18:051][877]LogSlate: Window 'Tutorial_Enum' being destroyed
+[2020.10.19-17.00.18:056][877]LogSlate: Window 'Tutorial_Enum' being destroyed
+[2020.10.19-17.00.18:773][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.01.39:064][ 64]LogEditorViewport: Clicking on Actor (LMB): Cross_Tweezers_C (Cross_Tweezers)
+[2020.10.19-17.02.32:050][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.02.32:783][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.02.32:821][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.10.19-17.02.33:085][416]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingC5C0EAA6473D26BB37AEF9A9D02C6347.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.02.33:182][416]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping_BuiltData9633331D41ACBFAAB99361966584BFC2.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping_BuiltData.uasset'
+[2020.10.19-17.02.47:370][201]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-17.02.47:370][201]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-17.02.47:377][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.02.49:744][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.02.49:747][341]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/Sample_Clipping.Sample_Clipping:PersistentLevel.Sample_Clipping
+[2020.10.19-17.03.25:909][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.03.56:997][ 74]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_RotateArrow_BP.UI_RotateArrow_BP
+[2020.10.19-17.04.39:648][321]LogSlate: Window 'UI_RotateArrow_BP' being destroyed
+[2020.10.19-17.04.39:653][321]LogSlate: Window 'UI_RotateArrow_BP' being destroyed
+[2020.10.19-17.04.40:783][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.04.40:995][391]LogAssetEditorManager: Opening Asset editor for Material /Game/UI/TutorialUI/CP3_UI_RArrowMat.CP3_UI_RArrowMat
+[2020.10.19-17.04.41:056][391]LogMaterial: Display: Missing cached shader map for material CP3_UI_RArrowMat, compiling. 
+[2020.10.19-17.04.42:028][391]LogMaterial: Display: Missing cached shader map for material CP3_UI_RArrowMat, compiling. 
+[2020.10.19-17.04.42:095][391]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.04.42:098][391]LogMaterial: Display: Missing cached shader map for material CP3_UI_RArrowMat, compiling. 
+[2020.10.19-17.04.42:145][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.19-17.04.42:152][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.19-17.04.42:157][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2020.10.19-17.04.42:164][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2020.10.19-17.04.42:171][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.10.19-17.04.42:762][392]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.10.19-17.04.43:170][406]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.04.44:905][487]MaterialEditorStats: Base pass shader without light map: 80 instructions
+[2020.10.19-17.04.44:905][487]MaterialEditorStats: Base pass vertex shader: 146 instructions
+[2020.10.19-17.04.44:905][487]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.19-17.04.44:905][487]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.10.19-17.04.44:905][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.19-17.05.13:039][136]LogSlate: Window 'CP3_UI_RArrowMat' being destroyed
+[2020.10.19-17.05.13:045][136]LogSlate: Window 'CP3_UI_RArrowMat' being destroyed
+[2020.10.19-17.05.15:677][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.05.15:862][289]LogAssetEditorManager: Opening Asset editor for Material /Game/UI/TutorialUI/CP3_UI_RArrowMat.CP3_UI_RArrowMat
+[2020.10.19-17.05.15:866][289]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.19-17.05.15:955][289]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.19-17.05.15:963][289]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.19-17.05.15:984][289]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.05.15:997][289]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.19-17.05.16:002][289]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.19-17.05.16:007][289]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2020.10.19-17.05.16:012][289]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2020.10.19-17.05.16:017][289]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.10.19-17.05.16:972][322]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.05.18:122][372]MaterialEditorStats: Base pass shader without light map: 80 instructions
+[2020.10.19-17.05.18:122][372]MaterialEditorStats: Base pass vertex shader: 146 instructions
+[2020.10.19-17.05.18:122][372]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.19-17.05.18:122][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.10.19-17.05.18:122][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.19-17.05.18:448][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.05.21:614][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.05.37:080][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.05.48:482][121]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.05.53:035][384]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/UI/TutorialUI/arrow.arrow
+[2020.10.19-17.05.53:108][384]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2020.10.19-17.05.53:108][384]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.10.19-17.06.57:131][104]LogSlate: Window 'arrow' being destroyed
+[2020.10.19-17.06.57:137][104]LogSlate: Window 'arrow' being destroyed
+[2020.10.19-17.07.48:616][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.08.22:738][ 80]LogEditorViewport: Clicking on Actor (LMB): Clip_Station_C (Clip_Station)
+[2020.10.19-17.08.23:999][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.09.04:893][227]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (clipsystem_clipstation)
+[2020.10.19-17.09.06:433][397]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2020.10.19-17.09.09:584][650]LogEditorViewport: Clicking on Actor (LMB): Clip_Station_C (Clip_Station)
+[2020.10.19-17.09.12:963][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.09.14:293][ 91]LogEditorViewport: Clicking on Actor (LMB): Clip_Station_C (Clip_Station)
+[2020.10.19-17.09.17:548][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.09.24:573][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.09.30:474][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.09.34:712][332]LogEditorViewport: Clicking on Actor (LMB): Clip_Station_C (Clip_Station)
+[2020.10.19-17.09.37:067][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.09.41:238][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.09.42:184][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.09.44:262][319]LogEditorViewport: Clicking on Actor (LMB): Clip_Station_C (Clip_Station)
+[2020.10.19-17.09.47:285][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.10.00:561][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.10.02:081][234]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.10.02:143][234]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.10.02:919][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.10.14:300][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.10.20:277][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.10.23:321][253]LogMaterial: Display: Missing cached shader map for material CP3_UI_FArrowMat, compiling. 
+[2020.10.19-17.10.23:343][253]LogAssetEditorManager: Opening Asset editor for Material /Game/UI/TutorialUI/CP3_UI_FArrowMat.CP3_UI_FArrowMat
+[2020.10.19-17.10.23:347][253]LogMaterial: Display: Missing cached shader map for material CP3_UI_FArrowMat, compiling. 
+[2020.10.19-17.10.23:569][253]LogMaterial: Display: Missing cached shader map for material CP3_UI_FArrowMat, compiling. 
+[2020.10.19-17.10.23:580][253]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.10.23:583][253]LogMaterial: Display: Missing cached shader map for material CP3_UI_FArrowMat, compiling. 
+[2020.10.19-17.10.23:622][253]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.10.19-17.10.23:632][253]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.19-17.10.23:642][253]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.19-17.10.24:270][270]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.10.19-17.10.24:915][299]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.10.26:346][360]MaterialEditorStats: Base pass shader without light map: 82 instructions
+[2020.10.19-17.10.26:346][360]MaterialEditorStats: Base pass vertex shader: 146 instructions
+[2020.10.19-17.10.26:346][360]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.19-17.10.26:346][360]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.10.19-17.10.26:347][360]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.19-17.10.32:596][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.10.32:664][851]LogSlate: Window 'CP3_UI_FArrowMat' being destroyed
+[2020.10.19-17.10.32:672][851]LogSlate: Window 'CP3_UI_FArrowMat' being destroyed
+[2020.10.19-17.10.39:344][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.10.39:542][425]LogAssetEditorManager: Opening Asset editor for Material /Game/UI/TutorialUI/CP3_UI_FArrowMat.CP3_UI_FArrowMat
+[2020.10.19-17.10.39:545][425]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.10.19-17.10.39:642][425]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.10.19-17.10.39:652][425]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.10.19-17.10.39:662][425]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.10.39:689][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.10.19-17.10.39:699][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.19-17.10.39:707][425]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.19-17.10.40:063][430]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.10.41:280][482]MaterialEditorStats: Base pass shader without light map: 82 instructions
+[2020.10.19-17.10.41:280][482]MaterialEditorStats: Base pass vertex shader: 146 instructions
+[2020.10.19-17.10.41:280][482]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.19-17.10.41:280][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.10.19-17.10.41:280][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.19-17.10.51:862][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.10.57:599][829]LogSlate: Window 'CP3_UI_FArrowMat' being destroyed
+[2020.10.19-17.10.57:604][829]LogSlate: Window 'CP3_UI_FArrowMat' being destroyed
+[2020.10.19-17.10.59:086][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.11.00:872][115]LogAssetEditorManager: Opening Asset editor for Material /Game/UI/TutorialUI/CP3_UI_FArrowMat.CP3_UI_FArrowMat
+[2020.10.19-17.11.00:876][115]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.10.19-17.11.00:967][115]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.10.19-17.11.00:977][115]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.10.19-17.11.00:983][115]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.11.01:019][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.10.19-17.11.01:028][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.19-17.11.01:038][115]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.10.19-17.11.01:466][125]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.11.02:668][181]MaterialEditorStats: Base pass shader without light map: 82 instructions
+[2020.10.19-17.11.02:668][181]MaterialEditorStats: Base pass vertex shader: 146 instructions
+[2020.10.19-17.11.02:668][181]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.19-17.11.02:668][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.10.19-17.11.02:669][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.19-17.11.05:226][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.11.05:310][388]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.10.19-17.11.05:326][389]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.11.06:688][463]MaterialEditorStats: Base pass shader without light map: 82 instructions
+[2020.10.19-17.11.06:688][463]MaterialEditorStats: Base pass vertex shader: 146 instructions
+[2020.10.19-17.11.06:688][463]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.19-17.11.06:688][463]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.10.19-17.11.06:688][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.19-17.11.10:562][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.11.10:658][780]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2020.10.19-17.11.10:676][781]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.10.19-17.11.12:083][852]MaterialEditorStats: Base pass shader without light map: 82 instructions
+[2020.10.19-17.11.12:083][852]MaterialEditorStats: Base pass vertex shader: 146 instructions
+[2020.10.19-17.11.12:084][852]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.19-17.11.12:084][852]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.10.19-17.11.12:084][852]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.19-17.11.16:311][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.11.24:003][851]LogSlate: Window 'CP3_UI_FArrowMat' being destroyed
+[2020.10.19-17.11.24:010][851]LogSlate: Window 'CP3_UI_FArrowMat' being destroyed
+[2020.10.19-17.11.43:395][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.11.55:589][257]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.19-17.12.08:856][349]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_Forward_Arrow_BP.UI_Forward_Arrow_BP
+[2020.10.19-17.12.12:035][530]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_RotateArrow_BP.UI_RotateArrow_BP
+[2020.10.19-17.13.50:035][858]LogMaterial: Display: Missing cached shader map for material CP3_UI_FArrowMat, compiling. 
+[2020.10.19-17.14.03:977][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.14.03:999][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TutorialUI/UI_Forward_Arrow_BP" FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_Forward_Arrow_BP.uasset" SILENT=true
+[2020.10.19-17.14.04:016][823]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/UI_Forward_Arrow_BPB901719F4F5F95462D928BA391496D68.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_Forward_Arrow_BP.uasset'
+[2020.10.19-17.14.13:238][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.14.19:414][974]BlueprintLog: New page: Compile UI_Forward_Arrow_BP
+[2020.10.19-17.14.19:690][974]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.10.19-17.14.22:892][203]LogSlate: Window 'UI_RotateArrow_BP' being destroyed
+[2020.10.19-17.14.22:897][203]LogSlate: Window 'UI_RotateArrow_BP' being destroyed
+[2020.10.19-17.14.22:981][203]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.19-17.14.49:772][560]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_Forward_Arrow_BP.UI_Forward_Arrow_BP
+[2020.10.19-17.14.55:011][948]LogSlate: Window 'UI_Forward_Arrow_BP' being destroyed
+[2020.10.19-17.14.55:017][948]LogSlate: Window 'UI_Forward_Arrow_BP' being destroyed
+[2020.10.19-17.14.56:050][ 26]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_FowardArrow_BP.UI_FowardArrow_BP
+[2020.10.19-17.15.00:500][341]LogSlate: Window 'UI_FowardArrow_BP' being destroyed
+[2020.10.19-17.15.00:506][341]LogSlate: Window 'UI_FowardArrow_BP' being destroyed
+[2020.10.19-17.15.04:748][691]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_FowardArrow_BP.UI_FowardArrow_BP
+[2020.10.19-17.15.09:944][ 61]LogSlate: Window 'UI_FowardArrow_BP' being destroyed
+[2020.10.19-17.15.09:949][ 61]LogSlate: Window 'UI_FowardArrow_BP' being destroyed
+[2020.10.19-17.15.10:834][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_Forward_Arrow_BP.UI_Forward_Arrow_BP
+[2020.10.19-17.15.16:581][553]LogSlate: Window 'UI_Forward_Arrow_BP' being destroyed
+[2020.10.19-17.15.16:586][553]LogSlate: Window 'UI_Forward_Arrow_BP' being destroyed
+[2020.10.19-17.15.18:134][682]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_FowardArrow_BP.UI_FowardArrow_BP
+[2020.10.19-17.15.27:061][319]LogSlate: Window 'UI_FowardArrow_BP' being destroyed
+[2020.10.19-17.15.27:067][319]LogSlate: Window 'UI_FowardArrow_BP' being destroyed
+[2020.10.19-17.15.28:160][403]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_Forward_Arrow_BP.UI_Forward_Arrow_BP
+[2020.10.19-17.15.35:220][918]LogSlate: Window 'UI_Forward_Arrow_BP' being destroyed
+[2020.10.19-17.15.35:225][918]LogSlate: Window 'UI_Forward_Arrow_BP' being destroyed
+[2020.10.19-17.15.37:721][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.10.19-17.15.40:439][115]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.19-17.15.40:445][115]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/TutorialUI/UI_FowardArrow_BP.UI_FowardArrow_BP
+[2020.10.19-17.15.44:094][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.10.19-17.15.44:359][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.10.19-17.15.44:388][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.10.19-17.15.44:413][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.10.19-17.15.51:196][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.10.19-17.15.51:208][642]LogMetaData: Removing '/Game/UI/TutorialUI/UI_ForwardArrow_BP.UI_ForwardArrow_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/UI/TutorialUI/UI_Forward_Arrow_BP.PackageMetaData'
+[2020.10.19-17.15.51:208][642]LogMetaData: Removing '/Game/UI/TutorialUI/UI_ForwardArrow_BP.SKEL_UI_ForwardArrow_BP_C' ref from Metadata '/Game/UI/TutorialUI/UI_Forward_Arrow_BP.PackageMetaData'
+[2020.10.19-17.15.51:208][642]LogMetaData: Removing '/Game/UI/TutorialUI/UI_ForwardArrow_BP.UI_ForwardArrow_BP_C' ref from Metadata '/Game/UI/TutorialUI/UI_Forward_Arrow_BP.PackageMetaData'
+[2020.10.19-17.15.51:208][642]LogMetaData: Removing '/Game/UI/TutorialUI/UI_ForwardArrow_BP.UI_ForwardArrow_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/TutorialUI/UI_Forward_Arrow_BP.PackageMetaData'
+[2020.10.19-17.15.51:208][642]LogMetaData: Removing '/Game/UI/TutorialUI/UI_ForwardArrow_BP.UI_ForwardArrow_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/TutorialUI/UI_Forward_Arrow_BP.PackageMetaData'
+[2020.10.19-17.15.51:208][642]LogMetaData: Removing '/Game/UI/TutorialUI/UI_ForwardArrow_BP.UI_ForwardArrow_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/TutorialUI/UI_Forward_Arrow_BP.PackageMetaData'
+[2020.10.19-17.15.51:267][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TutorialUI/UI_ForwardArrow_BP" FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_ForwardArrow_BP.uasset" SILENT=true
+[2020.10.19-17.15.51:288][642]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/UI_ForwardArrow_BPEA2E6209442B50D80FF27AB9A1F426CF.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_ForwardArrow_BP.uasset'
+[2020.10.19-17.15.51:514][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.10.19-17.15.51:551][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.19-17.15.51:577][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.10.19-17.15.56:447][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.15.57:714][213]LogEditorViewport: Clicking on Actor (LMB): UI_ForwardArrow_BP_C (UI_ForwardArrow_BP)
+[2020.10.19-17.15.59:626][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.16.02:222][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.16.04:424][815]LogEditorViewport: Clicking on Actor (LMB): UI_ForwardArrow_BP_C (UI_ForwardArrow_BP)
+[2020.10.19-17.16.08:470][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.16.10:112][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.16.10:868][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.16.11:532][511]LogEditorViewport: Clicking on Actor (LMB): UI_RotateArrow_BP_C (UI_RotateArrow_BP)
+[2020.10.19-17.16.13:837][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.16.14:949][871]LogEditorViewport: Clicking on Actor (LMB): UI_ForwardArrow_BP_C (UI_ForwardArrow_BP)
+[2020.10.19-17.16.17:467][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.16.21:202][532]LogEditorViewport: Clicking on Actor (LMB): UI_RotateArrow_BP_C (UI_RotateArrow_BP)
+[2020.10.19-17.16.26:787][140]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.16.26:985][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.16.27:174][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.16.36:678][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.16.38:987][352]Cmd: TRANSACTION UNDO
+[2020.10.19-17.16.38:987][352]LogEditorTransaction: Undo Edit Visible
+[2020.10.19-17.17.17:603][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.17.17:720][162]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_ForwardArrow_BP.UI_ForwardArrow_BP
+[2020.10.19-17.17.42:526][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TutorialUI/UI_ForwardArrow_BP" FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_ForwardArrow_BP.uasset" SILENT=true
+[2020.10.19-17.17.42:558][501]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/UI_ForwardArrow_BP5DEBF8E848A6AB1FD06E3397D6C252CF.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_ForwardArrow_BP.uasset'
+[2020.10.19-17.17.43:786][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.17.46:006][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TutorialUI/UI_ForwardArrow_BP" FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_ForwardArrow_BP.uasset" SILENT=true
+[2020.10.19-17.17.46:023][842]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/UI_ForwardArrow_BPFD9DA0CC43F186ACF8C481BC23B73134.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_ForwardArrow_BP.uasset'
+[2020.10.19-17.17.47:925][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.17.48:029][ 28]BlueprintLog: New page: Compile UI_ForwardArrow_BP
+[2020.10.19-17.17.48:237][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.10.19-17.17.50:071][211]LogSlate: Window 'UI_ForwardArrow_BP' being destroyed
+[2020.10.19-17.17.50:078][211]LogSlate: Window 'UI_ForwardArrow_BP' being destroyed
+[2020.10.19-17.17.51:646][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.17.51:755][386]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/UI/TutorialUI/UI_RotateArrow_BP.UI_RotateArrow_BP
+[2020.10.19-17.18.04:815][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TutorialUI/UI_RotateArrow_BP" FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_RotateArrow_BP.uasset" SILENT=true
+[2020.10.19-17.18.04:850][584]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/UI_RotateArrow_BPB8EAE6F843C1118B99617590878AD088.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/UI/TutorialUI/UI_RotateArrow_BP.uasset'
+[2020.10.19-17.18.06:760][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.18.06:860][772]BlueprintLog: New page: Compile UI_RotateArrow_BP
+[2020.10.19-17.18.07:012][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.10.19-17.18.09:831][ 31]LogSlate: Window 'UI_RotateArrow_BP' being destroyed
+[2020.10.19-17.18.09:837][ 31]LogSlate: Window 'UI_RotateArrow_BP' being destroyed
+[2020.10.19-17.18.24:399][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.18.24:977][537]LogEditorViewport: Clicking on Actor (LMB): UI_RotateArrow_BP_C (UI_RotateArrow_BP)
+[2020.10.19-17.18.34:611][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-17.18.49:749][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.18.51:355][203]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Clip_Station.Clip_Station
+[2020.10.19-17.18.53:641][306]BlueprintLog: New page: Compile Clip_Station
+[2020.10.19-17.18.53:850][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.10.19-17.19.00:650][668]BlueprintLog: New page: Compile Clip_Station
+[2020.10.19-17.19.00:850][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.19-17.19.39:075][554]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Clip_Station7E2ED8EE467FB53D516201A7B7B7D7A0.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Blueprints/Clip_Station.uasset'
+[2020.10.19-17.19.39:858][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.19.39:943][624]BlueprintLog: New page: Compile Clip_Station
+[2020.10.19-17.19.40:136][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.10.19-17.19.41:496][725]LogSlate: Window 'Clip_Station' being destroyed
+[2020.10.19-17.19.41:503][725]LogSlate: Window 'Clip_Station' being destroyed
+[2020.10.19-17.19.45:758][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.19.45:795][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.10.19-17.19.46:111][172]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingB8F9C50341C26999BB518CBA08D23EE7.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.19.46:210][172]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping_BuiltData3CF905B64620AFCB61AC6B84888EDEC2.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping_BuiltData.uasset'
+[2020.10.19-17.19.47:852][335]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-17.19.47:852][335]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-17.19.47:862][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.19.49:117][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.19.49:121][465]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/Sample_Clipping.Sample_Clipping:PersistentLevel.Sample_Clipping
+[2020.10.19-17.22.15:766][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.10.19-17.22.16:069][417]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingAFC2E5A44A1DDC42029762A8D69697E5.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.22.16:111][417]LogFileHelpers: Saving map 'Sample_Clipping' took 0.387
+[2020.10.19-17.22.29:285][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.22.36:356][249]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.10.19-17.22.36:664][249]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingF0E40A5546C47571136F15AD57AA2302.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.22.36:706][249]LogFileHelpers: Saving map 'Sample_Clipping' took 0.393
+[2020.10.19-17.22.37:244][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.22.37:284][294]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.10.19-17.22.37:573][294]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingEBC231A44DED671355AE81AA834BE640.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.22.37:647][294]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping_BuiltDataE0D098F64EC242823471CFAD3C37DE3C.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping_BuiltData.uasset'
+[2020.10.19-17.22.41:299][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.22.41:401][625]LogSlate: Window 'Sample_Clipping' being destroyed
+[2020.10.19-17.22.41:408][625]LogSlate: Window 'Sample_Clipping' being destroyed
+[2020.10.19-17.23.17:198][402]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-17.23.17:198][402]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-17.23.17:207][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.23.18:216][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.23.18:221][513]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/Sample_Clipping.Sample_Clipping:PersistentLevel.Sample_Clipping
+[2020.10.19-17.28.06:124][ 99]BlueprintLog: New page: Compile Sample_Clipping
+[2020.10.19-17.28.06:296][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.19-17.32.37:464][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.10.19-17.32.38:050][468]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping_Auto1A039F56942BD19B6FC86AEBE2045FEA5.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Autosaves/Game/VirtualRealityBP/Maps/Sample_Clipping_Auto1.umap'
+[2020.10.19-17.32.38:146][468]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Sample_Clipping' took 0.724
+[2020.10.19-17.32.38:146][468]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.724
+[2020.10.19-17.32.38:148][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI_Elements/TutorialUI/TextRender_BP] ([1] browsable assets)...
+[2020.10.19-17.32.38:148][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Elements/TutorialUI/TextRender_BP]
+[2020.10.19-17.32.38:177][468]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/TextRender_BP_Auto16675B86A4EA2080DBAF15AA2D1A8737F.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Autosaves/Game/UI_Elements/TutorialUI/TextRender_BP_Auto1.uasset'
+[2020.10.19-17.32.38:178][468]LogFileHelpers: Auto-saving content packages took 0.031
+[2020.10.19-17.35.16:207][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.39.16:282][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.10.19-17.39.16:625][142]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingC0F8F6E74B12450E7E86A180ED7121E2.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.39.16:686][142]LogFileHelpers: Saving map 'Sample_Clipping' took 0.457
+[2020.10.19-17.39.20:176][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.40.53:670][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.10.19-17.40.54:212][690]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingBB08BC894CF91D8D8161229F2F869648.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.40.54:254][690]LogFileHelpers: Saving map 'Sample_Clipping' took 0.625
+[2020.10.19-17.40.55:519][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.41.52:861][980]LogEditorTransaction: Undo Create Pin Link
+[2020.10.19-17.42.04:751][953]LogEditorTransaction: Undo Promote To Variable
+[2020.10.19-17.45.14:158][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.10.19-17.45.14:489][491]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingDADCA3BD408ABBE6C21219B5F9A96622.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.45.14:526][491]LogFileHelpers: Saving map 'Sample_Clipping' took 0.412
+[2020.10.19-17.45.15:895][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.45.28:855][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.10.19-17.45.29:163][792]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping0F928DD5484F08D526D5648F29006553.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.45.29:202][792]LogFileHelpers: Saving map 'Sample_Clipping' took 0.384
+[2020.10.19-17.45.29:913][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.45.33:846][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.10.19-17.45.34:174][197]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping61F1B86942F222CBE067B191D5F1AF15.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.45.34:224][197]LogFileHelpers: Saving map 'Sample_Clipping' took 0.417
+[2020.10.19-17.45.36:991][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.45.39:765][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.10.19-17.45.40:079][685]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingF7D13C844DC74BD5560E448C931B182A.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.45.40:126][685]LogFileHelpers: Saving map 'Sample_Clipping' took 0.399
+[2020.10.19-17.45.41:148][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.45.45:905][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.10.19-17.45.46:384][190]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping59DCEE12422C5B449D598D9D5AD26D43.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.45.46:430][190]LogFileHelpers: Saving map 'Sample_Clipping' took 0.564
+[2020.10.19-17.45.47:709][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.45.49:635][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.10.19-17.45.50:007][450]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingAF821EF047DA14940760A4BF72D79B8C.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.45.50:058][450]LogFileHelpers: Saving map 'Sample_Clipping' took 0.463
+[2020.10.19-17.45.58:993][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.47.04:954][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.10.19-17.47.05:299][304]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping91BC95C9461F6CB469FD3990020300D8.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.47.05:341][304]LogFileHelpers: Saving map 'Sample_Clipping' took 0.427
+[2020.10.19-17.47.06:526][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.47.14:319][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.10.19-17.47.14:642][ 89]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping050050D840F63442ED124E8DD7D675E3.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.47.14:682][ 89]LogFileHelpers: Saving map 'Sample_Clipping' took 0.404
+[2020.10.19-17.47.15:270][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.47.31:919][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.10.19-17.47.32:237][541]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingE9D6F48B423E76F2490CF2BAFEEB4DB1.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.47.32:282][541]LogFileHelpers: Saving map 'Sample_Clipping' took 0.402
+[2020.10.19-17.47.33:333][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.53.06:583][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.10.19-17.53.06:882][858]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingA7C050A041AD832A8765029D14B194A1.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.53.06:920][858]LogFileHelpers: Saving map 'Sample_Clipping' took 0.374
+[2020.10.19-17.53.51:509][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.55.04:062][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.10.19-17.55.04:353][401]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping236BC809407C4C6DA06E9BB43174DF2D.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.55.04:392][401]LogFileHelpers: Saving map 'Sample_Clipping' took 0.368
+[2020.10.19-17.55.31:757][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.56.50:924][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.56.52:020][981]LogEditorViewport: Clicking on Actor (LMB): Cross_Tweezers_C (Cross_Tweezers)
+[2020.10.19-17.56.54:366][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.57.01:734][533]LogEditorViewport: Clicking on Actor (LMB): Cross_Tweezers_C (Cross_Tweezers)
+[2020.10.19-17.57.07:692][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clip_gridring12)
+[2020.10.19-17.57.16:304][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clip_gridring4)
+[2020.10.19-17.57.17:239][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.57.26:443][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.57.26:922][948]LogEditorViewport: Clicking on Actor (LMB): Cross_Tweezers_C (Cross_Tweezers)
+[2020.10.19-17.57.37:593][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.57.42:114][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.57.45:560][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.57.51:414][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.57.52:121][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_table)
+[2020.10.19-17.57.52:661][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (clipring_bottom)
+[2020.10.19-17.57.55:522][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.58.08:473][323]Cmd: DELETE
+[2020.10.19-17.58.08:473][323]Cmd: ACTOR DELETE
+[2020.10.19-17.58.08:479][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.19-17.58.08:480][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.19-17.58.08:482][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.19-17.58.08:484][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.19-17.58.08:522][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.10.19-17.58.08:522][323]LogEditorActor: Deleted 4 Actors (0.048 secs)
+[2020.10.19-17.58.11:331][490]LogEditorViewport: Clicking on Actor (LMB): Clip_Station_C (Clip_Station)
+[2020.10.19-17.58.12:229][541]LogEditorViewport: Clicking on Actor (LMB): Clip_Station_C (Clip_Station)
+[2020.10.19-17.58.15:780][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.58.22:240][121]Cmd: DELETE
+[2020.10.19-17.58.22:240][121]Cmd: ACTOR DELETE
+[2020.10.19-17.58.22:243][121]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.10.19-17.58.22:277][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.10.19-17.58.22:278][121]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.10.19-17.58.32:755][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.58.49:234][658]LogEditorViewport: Clicking on Actor (LMB): GridHolder_C (GridHolder)
+[2020.10.19-17.58.50:837][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.58.50:945][751]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GridHolder.GridHolder
+[2020.10.19-17.59.03:817][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-17.59.10:786][846]LogSlate: Window 'GridHolder' being destroyed
+[2020.10.19-17.59.10:792][846]LogSlate: Window 'GridHolder' being destroyed
+[2020.10.19-17.59.26:122][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-17.59.28:137][329]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-17.59.28:137][329]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-17.59.29:074][372]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/Sample_Clipping.Sample_Clipping:PersistentLevel.Sample_Clipping
+[2020.10.19-17.59.58:286][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.10.19-17.59.58:625][ 20]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping8FC823DA4C6A134D1B4F0C93584934BB.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-17.59.58:697][ 20]LogFileHelpers: Saving map 'Sample_Clipping' took 0.451
+[2020.10.19-17.59.59:156][ 45]BlueprintLog: New page: Compile Sample_Clipping
+[2020.10.19-17.59.59:324][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.19-18.00.43:141][589]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Tweezers.Tweezers
+[2020.10.19-18.01.05:206][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.01.09:491][ 81]LogEditorViewport: Clicking on Actor (LMB): Cross_Tweezers_C (Cross_Tweezers)
+[2020.10.19-18.01.12:576][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.01.12:736][267]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Cross_Tweezers.Cross_Tweezers
+[2020.10.19-18.02.15:166][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.10.19-18.02.15:467][121]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping8E3593F344849A10046494860BBB50B5.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.02.15:508][121]LogFileHelpers: Saving map 'Sample_Clipping' took 0.385
+[2020.10.19-18.02.55:202][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.10.19-18.02.55:525][440]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping26E40C9A47D4B71D63DAA197C50F82DF.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.02.55:563][440]LogFileHelpers: Saving map 'Sample_Clipping' took 0.404
+[2020.10.19-18.03.07:464][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.10.19-18.03.07:789][111]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingA228AFD343A4DA51E7248993B6368E54.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.03.07:832][111]LogFileHelpers: Saving map 'Sample_Clipping' took 0.405
+[2020.10.19-18.03.22:552][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.10.19-18.03.22:860][977]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping5203D04F43E60B98D03BB7A18B1D1E2F.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.03.22:899][977]LogFileHelpers: Saving map 'Sample_Clipping' took 0.389
+[2020.10.19-18.03.52:296][665]BlueprintLog: New page: Compile Sample_Clipping
+[2020.10.19-18.03.52:499][665]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.10.19-18.04.03:753][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.19-18.04.04:080][305]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping2C9957894F9E27F0281BB8AB644B8FFF.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.04.04:122][305]LogFileHelpers: Saving map 'Sample_Clipping' took 0.407
+[2020.10.19-18.05.00:996][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.10.19-18.05.01:624][498]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping804B89B549D720FC7A6498B6C17D29F7.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.05.01:664][498]LogFileHelpers: Saving map 'Sample_Clipping' took 0.710
+[2020.10.19-18.05.16:798][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.10.19-18.05.17:124][400]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingFC54D9EC4BE884CD2305E48ECEE84446.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.05.17:162][400]LogFileHelpers: Saving map 'Sample_Clipping' took 0.403
+[2020.10.19-18.06.28:387][563]BlueprintLog: New page: Compile Sample_Clipping
+[2020.10.19-18.06.28:563][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2020.10.19-18.06.29:932][639]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GridHolder.GridHolder
+[2020.10.19-18.07.49:477][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.10.19-18.07.50:014][ 43]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping322B59684ECC66CD05E5A38B7C29FE22.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.07.50:053][ 43]LogFileHelpers: Saving map 'Sample_Clipping' took 0.618
+[2020.10.19-18.10.09:719][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.10.19-18.10.10:433][761]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping006DBF1A49F37554C80BA9A4FEC1EF05.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.10.10:472][761]LogFileHelpers: Saving map 'Sample_Clipping' took 0.796
+[2020.10.19-18.11.12:498][327]LogEditorViewport: Clicking on Actor (LMB): UI_ForwardArrow_BP_C (UI_ForwardArrow_BP)
+[2020.10.19-18.11.14:632][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.11.31:211][410]LogEditorViewport: Clicking on Actor (LMB): UI_ForwardArrow_BP_C (UI_ForwardArrow_BP)
+[2020.10.19-18.11.40:243][941]Cmd: TRANSACTION UNDO
+[2020.10.19-18.11.40:243][941]LogEditorTransaction: Undo Rotate Actors
+[2020.10.19-18.11.42:935][ 86]Cmd: TRANSACTION UNDO
+[2020.10.19-18.11.42:935][ 86]LogEditorTransaction: Undo Rotate Actors
+[2020.10.19-18.11.50:991][561]Cmd: TRANSACTION UNDO
+[2020.10.19-18.11.50:991][561]LogEditorTransaction: Undo Rotate Actors
+[2020.10.19-18.11.52:151][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-18.11.54:628][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-18.12.09:549][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.10.19-18.12.09:864][502]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping353D58DF48D6F5E1F46C509CCAB37E78.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.12.09:903][502]LogFileHelpers: Saving map 'Sample_Clipping' took 0.393
+[2020.10.19-18.12.12:055][625]LogEditorViewport: Clicking on Actor (LMB): UI_ForwardArrow_BP_C (UI_ForwardArrow_BP)
+[2020.10.19-18.12.16:401][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.12.26:401][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.12.51:091][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.12.54:333][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-18.12.55:175][140]Cmd: TRANSACTION UNDO
+[2020.10.19-18.12.55:175][140]LogEditorTransaction: Undo Clicking on Actors
+[2020.10.19-18.12.55:863][177]Cmd: TRANSACTION UNDO
+[2020.10.19-18.12.55:863][177]LogEditorTransaction: Undo Set Scale
+[2020.10.19-18.12.57:342][261]Cmd: TRANSACTION UNDO
+[2020.10.19-18.12.57:342][261]LogEditorTransaction: Undo Set Scale
+[2020.10.19-18.12.58:585][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.13.02:472][560]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (NewRoomMesh)
+[2020.10.19-18.13.02:535][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-18.13.03:134][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NewRoomMesh)
+[2020.10.19-18.13.03:739][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-18.13.03:781][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.10.19-18.13.04:115][627]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping256D0AC042B7DFD337AA0CA32ECF1B9C.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.13.04:201][627]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping_BuiltDataE525071E468BD64B86D16FBCDFBAE80B.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping_BuiltData.uasset'
+[2020.10.19-18.13.06:244][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-18.14.22:205][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.10.19-18.14.22:573][638]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingFFE860124AB174E27678D6909873131C.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.14.22:615][638]LogFileHelpers: Saving map 'Sample_Clipping' took 0.452
+[2020.10.19-18.14.23:646][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.14.47:984][856]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Cross_Tweezers.Cross_Tweezers
+[2020.10.19-18.15.08:198][991]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Cross_Tweezers7F74E4324EBFAD26D1D563963A343D4A.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Blueprints/Cross_Tweezers.uasset'
+[2020.10.19-18.15.08:731][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.15.23:970][913]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Cross_TweezersFFECD29649CD10B1C256D8BD5D491F3A.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Blueprints/Cross_Tweezers.uasset'
+[2020.10.19-18.15.51:970][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.16.01:320][809]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-18.16.01:320][809]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-18.16.01:334][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-18.16.03:031][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.17.01:612][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.17.05:382][305]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/ProcedureEnum.ProcedureEnum
+[2020.10.19-18.17.38:582][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProcedureEnum" FILE="../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/ProcedureEnum.uasset" SILENT=true
+[2020.10.19-18.17.38:599][257]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/ProcedureEnum18C1AA7843F2DDF985BE85A62A6E7868.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/ProcedureEnum.uasset'
+[2020.10.19-18.17.39:783][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.17.39:867][322]LogSlate: Window 'ProcedureEnum' being destroyed
+[2020.10.19-18.17.39:873][322]LogSlate: Window 'ProcedureEnum' being destroyed
+[2020.10.19-18.17.40:008][322]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.19-18.17.46:384][503]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-18.17.46:384][503]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2020.10.19-18.17.46:392][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-18.17.47:227][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-18.17.47:229][551]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/Sample_Clipping.Sample_Clipping:PersistentLevel.Sample_Clipping
+[2020.10.19-18.18.33:771][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.10.19-18.18.34:131][209]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping35AF3E204AE17343FCDE1C9D4C4F0849.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.18.34:190][209]LogFileHelpers: Saving map 'Sample_Clipping' took 0.458
+[2020.10.19-18.18.34:578][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.24.41:483][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.10.19-18.28.47:625][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.10.19-18.28.48:358][818]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping_Auto2B6378F9D49019DC7A2F40B95D0872E9F.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Autosaves/Game/VirtualRealityBP/Maps/Sample_Clipping_Auto2.umap'
+[2020.10.19-18.28.48:361][818]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Sample_Clipping' took 0.766
+[2020.10.19-18.28.48:361][818]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.766
+[2020.10.19-18.28.50:289][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.30.09:767][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.10.19-18.30.10:118][230]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_Clipping4954A15948F2C001E33F3D93730910AC.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.30.10:159][230]LogFileHelpers: Saving map 'Sample_Clipping' took 0.433
+[2020.10.19-18.30.10:650][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.30.17:681][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.10.19-18.30.18:000][656]LogSavePackage: Moving '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Saved/Sample_ClippingA6BE0E924BE999B46BDD20A00127CA22.tmp' to '../../../../../../UEProjects/CryoVR_Sample_Clipping-master/Content/VirtualRealityBP/Maps/Sample_Clipping.umap'
+[2020.10.19-18.30.18:045][656]LogFileHelpers: Saving map 'Sample_Clipping' took 0.401
+[2020.10.19-18.30.21:706][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.30.28:352][239]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GridHolder.GridHolder
+[2020.10.19-18.30.50:662][477]BlueprintLog: New page: Compile GridHolder
+[2020.10.19-18.30.50:943][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.10.19-18.30.56:443][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.19-18.30.56:568][808]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Cross_Tweezers.Cross_Tweezers
+[2020.10.19-18.31.04:543][244]LogUObjectArray: Warning: Empty slot
+[2020.10.19-18.31.04:643][244]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.19-18.31.06:884][244]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.241 s
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: 
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: Stack: 
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffda93ac0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffda8c26fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffda8c34e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffda75137f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffda5d85cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffda5d41e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffdbfb55984 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffdbfd415e3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffdbfb9d70b UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffdbfb7af5a UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffdbfb70287 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffe1d8ab726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffe1d89ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffe1d8ad77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffe1d89c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffe48f15c7d USER32.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffe48f15672 USER32.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffe1d8ae946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ff77f415d3e UE4Editor.exe!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ff77f42554c UE4Editor.exe!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ff77f4255ca UE4Editor.exe!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ff77f43316c UE4Editor.exe!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ff77f435b8e UE4Editor.exe!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffe48e57bd4 KERNEL32.DLL!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: [Callstack] 0x00007ffe4a94ce51 ntdll.dll!UnknownFunction []
+[2020.10.19-18.31.06:884][244]LogOutputDevice: Error: 
+[2020.10.19-18.31.07:003][244]LogStats:                SubmitErrorReport -  0.000 s
